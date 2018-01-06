@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">VC Asset Viewer</string>
+    <string name="title_home">ホーム</string>
+    <string name="title_list">リスト</string>
+    <string name="title_settings">設定</string>
+    <string name="title_help">ヘルプ</string>
+    <string name="history">変更履歴\n\naaa\nbbb</string>
+</resources>
